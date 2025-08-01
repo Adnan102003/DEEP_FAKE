@@ -1,0 +1,6 @@
+flask
+flask-cors
+tensorflow==2.11.0
+pillow
+matplotlib
+numpy
